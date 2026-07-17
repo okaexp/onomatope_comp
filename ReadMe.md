@@ -1,4 +1,4 @@
-# Triple Task Techniqueを用いたオンライン実験
+# 共感覚オノマトペの使用頻度と理解可能性
 
 ### Abstract
 
